@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "rainlink": "^1.2.9",
+    "rainlink-voice": "^1.0.1"
+  }
+}
